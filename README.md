@@ -24,7 +24,10 @@
          Cách cài đặt và sử dụng Postman
 
 3. Kiểm thử API cơ bản:
+
 GET
+
+
 ![Screenshot 2024-05-28 215634](https://github.com/BuiViet713/postman1/assets/96609682/d81e439c-e280-4d83-b8e7-2f6eacd2fa58)
 ![Screenshot 2024-05-28 221704](https://github.com/BuiViet713/postman1/assets/96609682/ac599404-265f-4701-90de-662304a1def8)
 ![Screenshot 2024-05-28 221751](https://github.com/BuiViet713/postman1/assets/96609682/03384c05-3054-47d0-a9c9-3fcf18c71947)
